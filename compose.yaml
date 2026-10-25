@@ -1,0 +1,17 @@
+services:
+  dev:
+    build:
+      context: .
+      args:
+        UID: ${UID:-1000}
+        GID: ${GID:-1000}
+    volumes:
+      - .:/workspace
+    working_dir: /workspace
+
+  doc:
+    image: docker.io/zensical/zensical:${ZENSICAL_VERSION:-0.0.45}
+    user: "${UID:-1000}:${GID:-1000}"
+    volumes:
+      - .:/workspace
+    working_dir: /workspace

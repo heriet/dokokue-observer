@@ -1,0 +1,11 @@
+.agents
+.claude
+.codex
+.local
+
+.env
+
+*.local.md
+
+docs/*
+!docs/.gitkeep
