@@ -3,6 +3,8 @@ site_name = "どこクエ 観察の森"
 site_description = "ブラウザゲーム「どこでもクエスト！トリビュート」の攻略情報をほどよく周知するサイト"
 docs_dir = "dokokue_observer_doc/content"
 site_dir = "docs"
+site_url = "https://heriet.github.io/dokokue-observer/"
+repo_url = "https://github.com/heriet/dokokue-observer"
 
 nav = [
   { "本サイトについて" = "index.md" },
