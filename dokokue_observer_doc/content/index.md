@@ -1,6 +1,6 @@
 # 本サイトについて
 
-ようこそ、どこクエ 観察の森へ。ブラウザゲーム[「どこでもクエスト！トリビュート」](https://tribute.dquest.workers.dev/)のより深き知恵と経験を求めるものへ
+ようこそ、[どこクエ 観察の森](https://heriet.github.io/dokokue-observer/)へ。ブラウザゲーム[「どこでもクエスト！トリビュート」](https://tribute.dquest.workers.dev/)のより深き知恵と経験を求めるものへ
 
 ## 掲載方針
 
