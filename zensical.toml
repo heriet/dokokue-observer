@@ -11,6 +11,7 @@ nav = [
   { "マジックアイテム" = "magic-item.md" },
   { "天空のフォージ" = "sky-forge.md" },
   { "精錬" = "refining.md" },
+  { "ステータス" = "status.md" },
   { "アイテムデータ" = "item-data.md" },
   { "未整理メモ" = "memo.md" },
 ]
